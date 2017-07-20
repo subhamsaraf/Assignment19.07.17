@@ -1,0 +1,6 @@
+C:\Users\apandey\Desktop\Assignment.19.07.17\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+C:\Users\apandey\Desktop\Assignment.19.07.17\PowerOfNumber\bin\Debug\PowerOfNumber.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
+C:\Users\apandey\Desktop\Assignment.19.07.17\PowerOfNumber\obj\Debug\PowerOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\apandey\Desktop\Assignment.19.07.17\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\PowerOfNumber\obj\Debug\PowerOfNumber.pdb

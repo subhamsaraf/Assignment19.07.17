@@ -1,0 +1,6 @@
+C:\Users\apandey\Desktop\Assignment.19.07.17\Input4Numbers\bin\Debug\Input4Numbers.exe.config
+C:\Users\apandey\Desktop\Assignment.19.07.17\Input4Numbers\bin\Debug\Input4Numbers.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\Input4Numbers\bin\Debug\Input4Numbers.pdb
+C:\Users\apandey\Desktop\Assignment.19.07.17\Input4Numbers\obj\Debug\Input4Numbers.csprojResolveAssemblyReference.cache
+C:\Users\apandey\Desktop\Assignment.19.07.17\Input4Numbers\obj\Debug\Input4Numbers.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\Input4Numbers\obj\Debug\Input4Numbers.pdb

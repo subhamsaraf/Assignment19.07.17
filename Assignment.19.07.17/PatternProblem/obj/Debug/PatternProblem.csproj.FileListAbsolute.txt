@@ -1,0 +1,5 @@
+C:\Users\apandey\Desktop\Assignment.19.07.17\PatternProblem\bin\Debug\PatternProblem.exe.config
+C:\Users\apandey\Desktop\Assignment.19.07.17\PatternProblem\bin\Debug\PatternProblem.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\PatternProblem\bin\Debug\PatternProblem.pdb
+C:\Users\apandey\Desktop\Assignment.19.07.17\PatternProblem\obj\Debug\PatternProblem.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\PatternProblem\obj\Debug\PatternProblem.pdb
