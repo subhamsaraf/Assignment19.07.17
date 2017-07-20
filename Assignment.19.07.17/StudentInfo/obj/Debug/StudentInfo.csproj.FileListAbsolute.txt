@@ -1,0 +1,12 @@
+C:\Users\apandey\Desktop\Assignment.19.07.17\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\apandey\Desktop\Assignment.19.07.17\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\apandey\Desktop\Assignment.19.07.17\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\apandey\Desktop\Assignment.19.07.17\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\StudentInfo\obj\Debug\StudentInfo.pdb
+D:\Git\Assignment19.07.17\Assignment.19.07.17\StudentInfo\bin\Debug\StudentInfo.exe.config
+D:\Git\Assignment19.07.17\Assignment.19.07.17\StudentInfo\bin\Debug\StudentInfo.exe
+D:\Git\Assignment19.07.17\Assignment.19.07.17\StudentInfo\bin\Debug\StudentInfo.pdb
+D:\Git\Assignment19.07.17\Assignment.19.07.17\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+D:\Git\Assignment19.07.17\Assignment.19.07.17\StudentInfo\obj\Debug\StudentInfo.exe
+D:\Git\Assignment19.07.17\Assignment.19.07.17\StudentInfo\obj\Debug\StudentInfo.pdb

@@ -1,0 +1,6 @@
+C:\Users\apandey\Desktop\Assignment.19.07.17\SwapiningVariables\bin\Debug\SwapiningVariables.exe.config
+C:\Users\apandey\Desktop\Assignment.19.07.17\SwapiningVariables\bin\Debug\SwapiningVariables.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\SwapiningVariables\bin\Debug\SwapiningVariables.pdb
+C:\Users\apandey\Desktop\Assignment.19.07.17\SwapiningVariables\obj\Debug\SwapiningVariables.exe
+C:\Users\apandey\Desktop\Assignment.19.07.17\SwapiningVariables\obj\Debug\SwapiningVariables.pdb
+C:\Users\apandey\Desktop\Assignment.19.07.17\SwapiningVariables\obj\Debug\SwapiningVariables.csprojResolveAssemblyReference.cache
